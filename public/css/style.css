@@ -191,6 +191,11 @@ body {
   font-size: 24px;
 }
 
+.post .fundo .acoes div{
+  display: flex;
+  justify-content: space-between;
+}
+
 .post .fundo .acoes div:first-child ion-icon {
   margin-right: 6px;
 }
